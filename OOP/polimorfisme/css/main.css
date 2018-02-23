@@ -1,0 +1,14 @@
+body{
+	margin:0; padding:0;
+}
+.news{
+	margin:100px;
+}
+.news-style{
+	width:400px;
+	border-bottom:1px solid darkgreen;
+	 
+}
+img {
+	width:200px;
+}
